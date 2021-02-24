@@ -1,6 +1,6 @@
 # BackendCh
 ## Project Name
-BackendChallenge
+Restfulapicrud
 
 ## Project Description
 This project is an API for Create, Update, Read and Delete operations and the project has one app
